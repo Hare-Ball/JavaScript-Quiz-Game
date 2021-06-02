@@ -4,5 +4,5 @@ This game is supposed to allow you to play a quiz and race against the clock to 
 
 link:https://hare-ball.github.io/JavaScript-Quiz-Game/
 
-<img src="./JavaScript-Quiz.png" alt="javascript Game Picture">
+<img src="JavaScript-Quiz.png" alt="javascript Game Picture">
 
